@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  background-color: #61dafb;
+}
+.quoteBox{
+  margin: auto;
+  padding: 50px;
+}
+.quoteButton {
+  left: 15px;
+}
+
+

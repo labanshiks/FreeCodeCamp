@@ -26,4 +26,4 @@ function convertToRoman(num) {
     return accumulator;
 }
 
-convertToRoman(36);
+console.log(convertToRoman(36));
